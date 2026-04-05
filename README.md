@@ -77,7 +77,7 @@ A large stylistic shift can be a useful red flag for:
 ## Installation
 
 ```powershell
-cd "C:\Users\gharsalli hind\Desktop\teamb\team-b-source-credibility-main\team-b-source-credibility-main"
+cd "xxxxxx\team-b-source-credibility-main"
 python -m pip install -r requirements.txt
 ```
 
