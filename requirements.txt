@@ -1,0 +1,28 @@
+# Core
+fastapi<0.100.0
+uvicorn
+httpx
+python-dotenv
+pydantic<2
+
+# OSINT Tools
+python-whois
+requests
+
+# Async & Concurrency
+aiohttp
+
+# Data Processing
+geoip2
+
+# Utilities
+python-dateutil
+validators
+
+# Development
+pytest<9
+pytest-asyncio<1
+python-multipart
+
+# Logging
+python-json-logger
